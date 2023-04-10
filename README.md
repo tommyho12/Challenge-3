@@ -1,1 +1,2 @@
 # Challenge-3
+In my Challenge 3 of the random generator I worked mainly on javascript. I used mostly variables and for loops for this activity. To test the to the generator I opened the live server while working on the javascript code. I was able to get the pop ups asking for the uppercase, lower case, number, and symbol. I was not able to get the code to generate a random code though.
